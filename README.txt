@@ -9,3 +9,7 @@ Raspberry PI
 https://www.hackster.io/craig-mulligan/electron-on-raspberry-pi-c8bce1
 
 https://github.com/electron/electron/issues/1702
+
+AngularJs
+
+http://adrianmejia.com/blog/2014/09/28/angularjs-tutorial-for-beginners-with-nodejs-expressjs-and-mongodb/
